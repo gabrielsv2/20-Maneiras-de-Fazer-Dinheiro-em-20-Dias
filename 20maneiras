@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>20 Maneiras de Fazer Dinheiro em 20 Dias</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    h1 {
+      font-size: 3rem;
+      text-shadow: 0 0 10px #00ffe1, 0 0 20px #00ffe1;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-weight: normal;
+      color: #ccc;
+    }
+
+    .book-cover {
+      width: 300px;
+      height: 450px;
+      background: linear-gradient(135deg, #00c6ff, #0072ff);
+      border-radius: 16px;
+      box-shadow: 0 0 20px #00ffe1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+      text-align: center;
+      padding: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .cta-button {
+      background-color: #00ffe1;
+      color: #000;
+      border: none;
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s;
+      box-shadow: 0 0 10px #00ffe1;
+    }
+
+    .cta-button:hover {
+      background-color: #00bfa6;
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>20 Maneiras de Fazer Dinheiro em 20 Dias</h1>
+    <h2>Transforme sua realidade financeira com estratégias práticas e comprovadas</h2>
+  </header>
+
+  <div class="book-cover">
+    Capa do Livro<br>"20 Maneiras<br>de Fazer Dinheiro<br>em 20 Dias"
+  </div>
+
+<a href="https://drive.google.com/drive/folders/10DmCwLp_KLGPfW36QraITOnCcQ20jcob?usp=drive_link" class="cta-button">Adquirir Agora</a>
+
+  <footer>
+    &copy; 2025 Todos os direitos reservados. Criado por [GABRIEL.S.V].
+  </footer>
+</body>
+</html>
